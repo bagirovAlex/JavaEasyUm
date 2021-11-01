@@ -24,7 +24,7 @@ public class HashMapExe1 {
         integerList.add(8);
         integerList.add(9);
 
-        nameAndMany.put("Джон Доу!!!fvgtbtybghgfbhgnvnhjbmnh", integerList);
+        nameAndMany.put("Джон Доу!!!", integerList);
         System.out.println(nameAndMany);
         //nameAndMany.put("Toм Смит", 123.22);
         //nameAndMany.put("Джейн Бейкер", 1378.00);
